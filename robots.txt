@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.beesecure-it.de/sitemap.xml
